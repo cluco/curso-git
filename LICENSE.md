@@ -1,6 +1,5 @@
 The MIT License (MIT)
 
-holi soy nueva
 Copyright (c) 2017 IV Devs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
